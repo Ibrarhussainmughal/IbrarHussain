@@ -39,11 +39,12 @@ I am especially interested in **practical AI systems**, MLOps, and applying mach
 ---
 
 ## 🌱 Currently Improving
-- Advanced ML algorithms  
+- Advanced Machine Learning algorithms  
 - Deep Learning architectures  
-- Production-level deployment  
-- MLOps best practices  
-
+- Prompt Engineering  
+- Agentic AI systems  
+- AI tools automation & workflow design  
+- Production-level deployment & MLOps best practices
 ---
 
 ## 📫 Connect
